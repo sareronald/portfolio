@@ -1,0 +1,59 @@
+header h1 {
+  font-size: 2.25rem;
+}
+/* @media (min-width: 992px) {
+  header {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  } */
+
+.landing-info {
+  margin-top: 200px;
+}
+
+.landing-info p {
+  font-size: 1.15rem;
+}
+.landing-info h1 {
+  font-size: 3rem;
+}
+
+/* @media (min-width: 1200px) {
+  header.hero-container h1 {
+    font-size: 3.5rem;
+  }
+} */
+
+header .hero-container {
+  background-color: #fdfdee;
+  background-image: url("/src/assets/images/background_shutterstock_481631680.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 100vh;
+}
+
+#portfolioBtn:focus,
+.btn:active {
+  box-shadow: none; /* Removes blue halo */
+}
+
+#portfolioBtn {
+  border-color: #408eff;
+  cursor: pointer; /* Pointer/hand icon */
+  outline: none;
+  color: white;
+  border-width: 2px;
+}
+
+.text-white-75 {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+hr {
+  max-width: 3.25rem;
+  border-width: 0.2rem;
+}
