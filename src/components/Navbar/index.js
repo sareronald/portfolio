@@ -58,6 +58,33 @@ function Navbar() {
                   Contact
                 </a>
               </li>
+              <li className="nav-item social">
+                <a
+                  target="_blank"
+                  href="https://twitter.com/home"
+                  rel="noreferrer"
+                >
+                  <i className="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li className="nav-item social">
+                <a
+                  target="_blank"
+                  href="https://www.linkedin.com/in/sarah-ronald-b141b4114"
+                  rel="noreferrer"
+                >
+                  <i className="fa fa-linkedin"></i>
+                </a>
+              </li>
+              <li className="nav-item social">
+                <a
+                  target="_blank"
+                  href="https://github.com/sareronald?tab=repositories"
+                  rel="noreferrer"
+                >
+                  <i className="fa fa-github"></i>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
