@@ -36,14 +36,6 @@ function About() {
               >
                 View Resume
               </a>
-              <a
-                href="https://github.com/sareronald"
-                className="btn btn-primary aboutMeButtons"
-                id="githubRepo"
-                role="button"
-              >
-                <i className="fa fa-github"></i> Github Repo
-              </a>
             </div>
           </div>
         </div>
