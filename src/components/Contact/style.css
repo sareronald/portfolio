@@ -1,13 +1,19 @@
-.icon {
-  font-size: 40px;
-  color: #fffffd;
-}
-
-#contact {
-  background-color: #050829;
-  margin-bottom: 40px;
+.page-section-contact {
+  background-color: #fffffd;
+  padding: 10rem 0;
 }
 
 .links {
   color: #fffffd;
+}
+
+.contact-form {
+  /* margin: auto; */
+  /* width: 50%; */
+  padding: 10px;
+}
+
+.icon {
+  font-size: 50px;
+  margin-bottom: 20px;
 }

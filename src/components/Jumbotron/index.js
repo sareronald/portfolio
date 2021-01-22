@@ -6,7 +6,7 @@ import "./style.css";
 function Jumbotron() {
   return (
     <main>
-      <header>
+      <header id="landingPage">
         <div className="container-fluid hero-container">
           <div className="info">
             <div className="col-lg-10 align-self-end"></div>
